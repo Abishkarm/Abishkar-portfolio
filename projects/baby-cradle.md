@@ -1,11 +1,11 @@
 # Baby cradle with cry detection
 
-**Context:** Bachelor's project  
+**Context:** Engineering project  
 **Focus:** Sensing and automation
 
 ## Project scope
 
-A baby-cradle project with cry detection undertaken during my bachelor's studies.
+A baby-cradle project with cry detection.
 
 ## Engineering relevance
 

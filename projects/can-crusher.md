@@ -1,11 +1,11 @@
 # Automatic can crusher
 
-**Context:** Bachelor's project  
+**Context:** Engineering project  
 **Focus:** Mechanical automation
 
 ## Project scope
 
-An automatic can-crushing project undertaken during my bachelor's studies.
+An automatic can-crushing project.
 
 ## Engineering relevance
 

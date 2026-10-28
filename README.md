@@ -1,6 +1,6 @@
 # Abishkar Shrestha | Engineering Portfolio
 
-Mechanical engineering graduate with experience in building automation and HVAC design and installation. Seeking Montreal-area internships and early-career opportunities in mechanical systems, building automation, robotics, and automation.
+Mechanical engineering graduate with experience in building automation and HVAC design and installation. Seeking internships and early-career opportunities in mechanical systems, building automation, robotics, and automation.
 
 [View the portfolio page](https://Abishkarm.github.io/Abishkar-portfolio/) · [Email](mailto:abishkarshrestha64@gmail.com) · [GitHub](https://github.com/Abishkarm)
 
@@ -11,10 +11,10 @@ Mechanical engineering graduate with experience in building automation and HVAC 
 | Work | Focus | Details |
 | --- | --- | --- |
 | Improved cookstove thesis | Cookstove design, temperature distribution, model selection | [Project brief](projects/cookstove.md) |
-| Automatic can crusher | Bachelor's automation project | [Project brief](projects/can-crusher.md) |
-| Baby cradle with cry detection | Bachelor's sensing and automation project | [Project brief](projects/baby-cradle.md) |
+| Automatic can crusher | Mechanical automation project | [Project brief](projects/can-crusher.md) |
+| Baby cradle with cry detection | Sensing and automation project | [Project brief](projects/baby-cradle.md) |
 
-These bachelor's projects show my background in thermal systems and automation. Project briefs distinguish the documented scope from technical details and results that still need to be added.
+These projects show my background in thermal systems and automation. Project briefs distinguish the documented scope from technical details and results that still need to be added.
 
 ## Experience
 

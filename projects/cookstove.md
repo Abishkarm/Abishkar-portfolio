@@ -4,7 +4,7 @@
 
 ## Scope
 
-A bachelor's project on improved cookstove design. My earlier portfolio describes a thesis studying temperature distribution and multistage combustion; the exact stove model designation needs confirmation.
+A project on improved cookstove design. My earlier portfolio describes a thesis studying temperature distribution and multistage combustion; the exact stove model designation needs confirmation.
 
 ## Documented activities
 
