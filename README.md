@@ -1,6 +1,6 @@
 # Abishkar Shrestha | Engineering Portfolio
 
-Mechanical engineering graduate with project experience in thermal systems, mechanical design, and automation. Seeking internships and early-career opportunities in mechanical systems, building automation, robotics, and automation.
+Mechanical engineering graduate with project experience in thermal systems, mechanical design, and automation. Seeking internships and early-career opportunities in mechanical systems, robotics, and automation.
 
 [View the portfolio page](https://Abishkarm.github.io/Abishkar-portfolio/) · [Email](mailto:abishkarshrestha64@gmail.com) · [GitHub](https://github.com/Abishkarm)
 

@@ -48,7 +48,7 @@ export default function AnimatedPortfolio() {
                 <p className="text-lg leading-relaxed animate-fadeIn">
                   I am a mechanical engineer who loves to deal with real life problems. My projects cover thermal systems, mechanical design, and automation. I have good communication skills, a can-do attitude and perseverance to
                   solve complex problems. I am constantly seeking opportunities to broaden my
-                  knowledge and skills in the field of building automation.
+                  knowledge and skills in mechanical systems and automation.
                 </p>
               </TabsContent>
               <TabsContent value="education" className="space-y-4">

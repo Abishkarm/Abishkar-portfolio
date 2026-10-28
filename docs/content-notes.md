@@ -7,7 +7,7 @@ Reviewed on October 28, 2026. This file is an editing aid, not a résumé.
 - [Existing portfolio component](https://github.com/Abishkarm/Abishkar-portfolio/blob/793a164e3d2eef240c06351efe71c3ddc30284d4/portfolio.tsx): name, degree, production and maintenance internship, listed tools, workshop, course, public email.
 - [Older profile page](https://github.com/Abishkarm/profile/blob/main/index.html): cookstove thesis, survey, model selection and design.
 - User clarification: projects include an automatic can crusher, baby cradle with cry detection, and a cookstove design. No master's project is presented.
-- User request: target internships and engineering roles in mechanical systems, building automation, robotics, and automation.
+- User request: target internships and engineering roles in mechanical systems, robotics, and automation.
 
 ## Editorial choices
 
