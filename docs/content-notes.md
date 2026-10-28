@@ -4,14 +4,14 @@ Reviewed on October 28, 2026. This file is an editing aid, not a résumé.
 
 ## Sources
 
-- [Existing portfolio component](https://github.com/Abishkarm/Abishkar-portfolio/blob/793a164e3d2eef240c06351efe71c3ddc30284d4/portfolio.tsx): name, degree, employers, HVAC experience, listed tools, workshop, course, public email.
+- [Existing portfolio component](https://github.com/Abishkarm/Abishkar-portfolio/blob/793a164e3d2eef240c06351efe71c3ddc30284d4/portfolio.tsx): name, degree, production and maintenance internship, listed tools, workshop, course, public email.
 - [Older profile page](https://github.com/Abishkarm/profile/blob/main/index.html): cookstove thesis, survey, model selection and design.
 - User clarification: projects include an automatic can crusher, baby cradle with cry detection, and a cookstove design. No master's project is presented.
 - User request: target internships and engineering roles in mechanical systems, building automation, robotics, and automation.
 
 ## Editorial choices
 
-- Feature the three engineering projects; keep BAS/HVAC as professional experience.
+- Feature the three engineering projects and production/maintenance internship.
 - Keep employment under experience rather than representing it as a completed standalone project.
 - Describe the degree as a mechanical engineering qualification. Do not imply Quebec professional registration.
 - List robotics workshop participation separately from project delivery.
@@ -24,8 +24,7 @@ Reviewed on October 28, 2026. This file is an editing aid, not a résumé.
 1. Current email, education/enrolment, internship availability, and work eligibility.
 2. French and English proficiency, using accurate descriptions.
 3. Thesis dates, exact model name, individual contribution, methods, and evidence.
-4. BAS employment dates, systems/tools used, responsibilities, and one permitted work example.
-5. Production/maintenance internship dates and specific tasks.
-6. Can crusher and baby cradle: exact personal contribution, team context, tools, prototype status, permitted visuals, and any test evidence.
+4. Production/maintenance internship dates and specific tasks.
+5. Can crusher and baby cradle: exact personal contribution, team context, tools, prototype status, permitted visuals, and any test evidence.
 
 Add a current résumé only after these details are confirmed. Add photos, CAD drawings, reports, or code only when you have permission to publish them.

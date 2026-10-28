@@ -23,7 +23,7 @@ If Pages already uses another source, review that setting before changing it. If
 
 ## Suggested repository description
 
-Mechanical engineering portfolio: thermal systems, HVAC and building automation experience, and automation-related code.
+Mechanical engineering portfolio: thermal systems, mechanical design, and automation projects.
 
 ## Updating the site
 

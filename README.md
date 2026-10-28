@@ -1,6 +1,6 @@
 # Abishkar Shrestha | Engineering Portfolio
 
-Mechanical engineering graduate with experience in building automation and HVAC design and installation. Seeking internships and early-career opportunities in mechanical systems, building automation, robotics, and automation.
+Mechanical engineering graduate with project experience in thermal systems, mechanical design, and automation. Seeking internships and early-career opportunities in mechanical systems, building automation, robotics, and automation.
 
 [View the portfolio page](https://Abishkarm.github.io/Abishkar-portfolio/) · [Email](mailto:abishkarshrestha64@gmail.com) · [GitHub](https://github.com/Abishkarm)
 
@@ -18,9 +18,6 @@ These projects show my background in thermal systems and automation. Project bri
 
 ## Experience
 
-[Building automation and HVAC experience brief](projects/building-automation.md)
-
-- **Junior Building Automation System Operator** — Eco Zone Architect and Construction Pvt. Ltd.
 - **Production and maintenance internship, food manufacturing** — Chaudhary Group Industrial Park, Nawalparasi.
 
 ## Technical background
@@ -45,10 +42,10 @@ assets/styles.css           # Responsive styles
 projects/                   # Concise project and experience briefs
 docs/hosting.md             # GitHub Pages setup
 docs/content-notes.md       # Sources and details to confirm
-portfolio.tsx               # Original 2024 component, retained as an archive
+portfolio.tsx               # Legacy React component
 .nojekyll                   # Serve the static site directly
 ```
 
-The site uses HTML and CSS, with relative asset paths for GitHub project hosting. No installation or build is required. Open `index.html` locally to preview it. The original React component is not the site entry point and has no standalone build setup.
+The site uses HTML and CSS, with relative asset paths for GitHub project hosting. No installation or build is required. Open `index.html` locally to preview it. The legacy React component is not the site entry point and has no standalone build setup.
 
 For content updates, keep the website and project briefs aligned. Add dated evidence and your precise contribution before adding results, performance figures, or claims of deployment.

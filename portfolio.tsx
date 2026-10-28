@@ -46,9 +46,7 @@ export default function AnimatedPortfolio() {
             <div className="mt-6 transition-all duration-500 ease-in-out">
               <TabsContent value="about" className="space-y-4">
                 <p className="text-lg leading-relaxed animate-fadeIn">
-                  I am a mechanical engineer who loves to deal with real life problems. I've worked on
-                  building automation sectors, designing and installing HVAC components in the
-                  buildings. I have good communication skills, a can-do attitude and perseverance to
+                  I am a mechanical engineer who loves to deal with real life problems. My projects cover thermal systems, mechanical design, and automation. I have good communication skills, a can-do attitude and perseverance to
                   solve complex problems. I am constantly seeking opportunities to broaden my
                   knowledge and skills in the field of building automation.
                 </p>
@@ -70,7 +68,6 @@ export default function AnimatedPortfolio() {
               </TabsContent>
               <TabsContent value="experience" className="space-y-4">
                 {[
-                  { title: "Junior Building Automation System Operator", company: "Eco Zone Architect and Construction Pvt. Ltd." },
                   { title: "Internship on Production and Maintenance in Foods", company: "Chaudhary Group Industrial Park, Nawalparasi" }
                 ].map((exp, index) => (
                   <div key={index} className="flex items-start p-4 bg-gray-50 rounded-lg shadow-md transition-transform duration-300 hover:scale-105">
