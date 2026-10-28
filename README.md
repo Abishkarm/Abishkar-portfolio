@@ -1,6 +1,6 @@
 # Abishkar Shrestha | Engineering Portfolio
 
-Mechanical engineering graduate nearing completion of my master’s, with project experience in thermal systems, mechanical design, and automation. Seeking entry-level roles in mechanical systems, robotics, and automation.
+Mechanical engineering graduate completing a master’s in Mechanical Engineering at Concordia University, with graduation expected in 2027. My projects cover thermal systems, mechanical design, and automation. Seeking entry-level roles in mechanical systems, robotics, and automation.
 
 [View the portfolio page](https://Abishkarm.github.io/Abishkar-portfolio/) · [Email](mailto:abishkarshrestha64@gmail.com) · [GitHub](https://github.com/Abishkarm)
 
@@ -32,7 +32,7 @@ Tools and training are drawn from my existing portfolio; proficiency levels and 
 
 ## Education
 
-**Master’s studies** — nearing completion.
+**Master’s in Mechanical Engineering**, Concordia University — expected 2027.
 
 **Bachelor in Mechanical Engineering**, Kathmandu University, 2018–2023.
 

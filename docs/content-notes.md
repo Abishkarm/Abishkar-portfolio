@@ -7,7 +7,7 @@ Reviewed on October 28, 2026. This file is an editing aid, not a résumé.
 - [Existing portfolio component](https://github.com/Abishkarm/Abishkar-portfolio/blob/793a164e3d2eef240c06351efe71c3ddc30284d4/portfolio.tsx): name, degree, production and maintenance internship, listed tools, workshop, course, public email.
 - [Older profile page](https://github.com/Abishkarm/profile/blob/main/index.html): cookstove thesis, survey, model selection and design.
 - User clarification: projects include an automatic can crusher, baby cradle with cry detection, and a cookstove design. No master's project is presented.
-- User clarification: master's studies are nearing completion; target jobs in mechanical systems, robotics, and automation. Program, university, and expected graduation date have not yet been provided.
+- User clarification: master’s in Mechanical Engineering at Concordia University, expected 2027; target jobs in mechanical systems, robotics, and automation. Graduation month has not been provided.
 
 ## Editorial choices
 
@@ -21,7 +21,7 @@ Reviewed on October 28, 2026. This file is an editing aid, not a résumé.
 
 ## Details to confirm before applications
 
-1. Master’s program, university, expected graduation month/year, current email, job start-date availability, and work eligibility.
+1. Expected graduation month, current email, job start-date availability, and work eligibility.
 2. French and English proficiency, using accurate descriptions.
 3. Thesis dates, exact model name, individual contribution, methods, and evidence.
 4. Production/maintenance internship dates and specific tasks.
