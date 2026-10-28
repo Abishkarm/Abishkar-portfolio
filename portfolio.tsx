@@ -46,13 +46,12 @@ export default function AnimatedPortfolio() {
             <div className="mt-6 transition-all duration-500 ease-in-out">
               <TabsContent value="about" className="space-y-4">
                 <p className="text-lg leading-relaxed animate-fadeIn">
-                  I am a mechanical engineer who loves to deal with real life problems. My projects cover thermal systems, mechanical design, and automation. I have good communication skills, a can-do attitude and perseverance to
-                  solve complex problems. I am constantly seeking opportunities to broaden my
-                  knowledge and skills in mechanical systems and automation.
+                  I am a mechanical engineering graduate nearing completion of my master’s. My projects cover thermal systems, mechanical design, and automation. I am seeking entry-level roles in mechanical systems, robotics, and automation.
                 </p>
               </TabsContent>
               <TabsContent value="education" className="space-y-4">
                 {[
+                  { title: "Master’s studies", institution: "", years: "Nearing completion" },
                   { title: "Bachelor in Mechanical Engineering", institution: "Kathmandu University", years: "2018-2023" },
                   { title: "Higher Secondary School, Science", institution: "Kathmandu Institute of Science & Technology School", years: "2016-2018" }
                 ].map((edu, index) => (

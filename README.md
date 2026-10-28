@@ -1,6 +1,6 @@
 # Abishkar Shrestha | Engineering Portfolio
 
-Mechanical engineering graduate with project experience in thermal systems, mechanical design, and automation. Seeking internships and early-career opportunities in mechanical systems, robotics, and automation.
+Mechanical engineering graduate nearing completion of my master’s, with project experience in thermal systems, mechanical design, and automation. Seeking entry-level roles in mechanical systems, robotics, and automation.
 
 [View the portfolio page](https://Abishkarm.github.io/Abishkar-portfolio/) · [Email](mailto:abishkarshrestha64@gmail.com) · [GitHub](https://github.com/Abishkarm)
 
@@ -31,6 +31,8 @@ These projects show my background in thermal systems and automation. Project bri
 Tools and training are drawn from my existing portfolio; proficiency levels and project-specific use are not asserted.
 
 ## Education
+
+**Master’s studies** — nearing completion.
 
 **Bachelor in Mechanical Engineering**, Kathmandu University, 2018–2023.
 
